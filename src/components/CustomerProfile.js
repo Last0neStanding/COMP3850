@@ -41,7 +41,7 @@ function CustomerProfile({user,setUser}) {
     
     const userDisplayNameStyle={
         "position": "absolute",
-        "width": "69px",
+        "width": "220px",
         "height": "31px",
         "left": "19px",
         "top": "64px",
@@ -394,7 +394,11 @@ function CustomerProfile({user,setUser}) {
     // let userDisplayName = user.prefix+" "+user.firstName+" "+user.lastName;
     useEffect(() => {
         if (user.status=="logged in"){
+            console.log("user",user)
             setUserDisplayName(user.userPrefix+" "+user.firstName+" "+user.lastName)
+        }else{
+            console.log("user",user)
+            setUserDisplayName("Klee")
         }
       }, [])
 

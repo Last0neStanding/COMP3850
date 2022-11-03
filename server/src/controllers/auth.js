@@ -77,6 +77,10 @@ const registerUser = async (request, response) => {
         if (newUser._id) {
             response.json({
                 status: "success",
+                type: returned.type,
+                userPrefix: returned.userPrefix,
+                firstName: returned.firstName,
+                lastName: returned.lastName,
                 email: returned.email,
                 token: returned._id
             })
