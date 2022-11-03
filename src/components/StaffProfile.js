@@ -30,11 +30,11 @@ function StaffProfile({user,setUser}) {
         "left": "19px",
         "top": "25px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "800",
-        "font-size": "24px",
-        "line-height": "29px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "800",
+        "fontSize": "24px",
+        "lineHeight": "29px",
         
         "color": "#000000"
     }
@@ -46,17 +46,17 @@ function StaffProfile({user,setUser}) {
         "left": "19px",
         "top": "64px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "800",
-        "font-size": "24px",
-        "line-height": "29px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "800",
+        "fontSize": "24px",
+        "lineHeight": "29px",
         
         "color": "#000000"
     }
 
     const signOutBtnStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "64px",
@@ -66,7 +66,7 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const signOutBtnTxtStyle={
@@ -76,19 +76,19 @@ function StaffProfile({user,setUser}) {
         "left": "4px",
         "top": "-9px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         
-        "text-align": "center",
+        "textAlign": "center",
         
         "color": "#000000"
     }
     
     const AdsBorderStyle0={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "176px",
@@ -98,7 +98,7 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #F5F3E6",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const adsStyle0={
@@ -109,11 +109,11 @@ function StaffProfile({user,setUser}) {
         "top": "6px",
         
         "background": "url(Chanel-the-chanel-iconic-Spring-21-handbags-ad-The-Impression-002-1024x668.jpg)",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const EngagementBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "60px",
@@ -123,7 +123,7 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const EngagementImgStyle={
@@ -141,20 +141,20 @@ function StaffProfile({user,setUser}) {
         "left": "23px",
         "top": "224px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "11px",
-        "line-height": "13px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "11px",
+        "lineHeight": "13px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000"
     }
     
     const BudgetBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "60px",
@@ -164,7 +164,7 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const BudgetImgStyle={
@@ -182,20 +182,20 @@ function StaffProfile({user,setUser}) {
         "left": "113px",
         "top": "224px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "11px",
-        "line-height": "13px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "11px",
+        "lineHeight": "13px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000" 
     }
     
     const TasksBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "59px",
@@ -205,7 +205,7 @@ function StaffProfile({user,setUser}) {
 
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const TasksImgStyle={
@@ -223,20 +223,20 @@ function StaffProfile({user,setUser}) {
         "left": "196px",
         "top": "224px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "11px",
-        "line-height": "13px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "11px",
+        "lineHeight": "13px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000"       
     }
     
     const QRBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "76px",
@@ -249,7 +249,7 @@ function StaffProfile({user,setUser}) {
     }
     
     const InteractionBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "226px",
@@ -259,7 +259,7 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "10px"
+        "borderRadius": "10px"
     }
     
     const InteractionTitleStyle={
@@ -269,13 +269,13 @@ function StaffProfile({user,setUser}) {
         "left": "5px",
         "top": "7px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "700",
-        "font-size": "14px",
-        "line-height": "17px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "700",
+        "fontSize": "14px",
+        "lineHeight": "17px",
         "display": "flex",
-        "align-items": "center",
+        "alignItems": "center",
         
         "color": "#000000"
     }
@@ -289,7 +289,7 @@ function StaffProfile({user,setUser}) {
     }
     
     const activeMemberBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "37px",
@@ -299,7 +299,7 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "18.5px"
+        "borderRadius": "18.5px"
     }
     
     const RecentTxtStyle={
@@ -309,19 +309,19 @@ function StaffProfile({user,setUser}) {
         "left": "7px",
         "top": "140px",
         
-        "font-family": "'Jost'",
-        "font-style": "normal",
-        "font-weight": "700",
-        "font-size": "13px",
-        "line-height": "19px",
+        "fontFamily": "'Jost'",
+        "fontStyle": "normal",
+        "fontWeight": "700",
+        "fontSize": "13px",
+        "lineHeight": "19px",
         "display": "flex",
-        "align-items": "center",
+        "alignItems": "center",
         
         "color": "#000000"
     }
     
     const RecentMemberBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "37px",
@@ -331,11 +331,11 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "18.5px"
+        "borderRadius": "18.5px"
     }
     
     const MeetingBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "86px",
@@ -348,7 +348,7 @@ function StaffProfile({user,setUser}) {
     }
     
     const LiveChatBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "45px",
@@ -358,7 +358,7 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "10px"
+        "borderRadius": "10px"
     }
     
     const LiveChatImgStyle={
@@ -376,20 +376,20 @@ function StaffProfile({user,setUser}) {
         "left": "23px",
         "top": "65px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "11px",
-        "line-height": "13px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "11px",
+        "lineHeight": "13px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000"
     }
     
     const OSIDBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "45px",
@@ -399,7 +399,7 @@ function StaffProfile({user,setUser}) {
 
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "10px"
+        "borderRadius": "10px"
     }
     
     const OSIDImgStyle={
@@ -417,20 +417,20 @@ function StaffProfile({user,setUser}) {
         "left": "27px",
         "top": "175px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "11px",
-        "line-height": "13px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "11px",
+        "lineHeight": "13px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000"
     }
     
     const AdsBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "320px",
@@ -440,8 +440,8 @@ function StaffProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #FFFFFF",
-        "box-shadow": "0px 4px 4px rgba(0, 0, 0, 0.25)",
-        "border-radius": "20px"
+        "boxShadow": "0px 4px 4px rgba(0, 0, 0, 0.25)",
+        "borderRadius": "20px"
     }
     
     const adsStyle={
@@ -450,7 +450,7 @@ function StaffProfile({user,setUser}) {
         "height": "70px",
         "left": "14px",
         "top": "10px",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     

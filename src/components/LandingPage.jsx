@@ -33,14 +33,14 @@ function LandingPage() {
         "fontWeight": 800,
         "fontSize": "24px",
         "lineHeight": "29px",
-        "align-items": "center",
+        "alignItems": "center",
         "textAlign": "center",
         "margin" : "0px",
 
         "color": "#000000"
     }
     const customerBtnStyle = {
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "219px",
@@ -66,7 +66,7 @@ function LandingPage() {
         "lineHeight": '29px',
         // "display": "flex",
         "margin":"0px",
-        "align-items": "center",
+        "alignItems": "center",
         "textAlign": "center",
 
         "color": "#000000"
@@ -74,7 +74,7 @@ function LandingPage() {
 
     const staffBtnStyle = {
         /* Rectangle 4 */
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "219px",

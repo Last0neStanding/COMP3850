@@ -26,18 +26,18 @@ function CreateAccountFormTwo({ setUser}) {
         "left": "21px",
         "top": "57px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "13px",
+        "lineHeight": "16px",
 
         "color": "#000000"
 
     }
     
     const FirstNameInputStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "319px",
@@ -57,17 +57,17 @@ function CreateAccountFormTwo({ setUser}) {
         "left": "21px",
         "top": "147px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "13px",
+        "lineHeight": "16px",
 
         "color": "#000000"
     }
     
     const LastNameInputStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "318px",
@@ -88,18 +88,18 @@ function CreateAccountFormTwo({ setUser}) {
         "left": "20px",
         "top": "241px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "13px",
+        "lineHeight": "16px",
 
         "color": "#000000"
 
     }
     
     const BODInputStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "318px",
@@ -120,18 +120,18 @@ function CreateAccountFormTwo({ setUser}) {
         "left": "21px",
         "top": "371px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "13px",
-        "line-height": "16px",
-        "text-transform": "uppercase",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "13px",
+        "lineHeight": "16px",
+        "textTransform": "uppercase",
 
         "color": "#000000"
     }
     
     const EmailInputStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "319px",
@@ -152,19 +152,19 @@ function CreateAccountFormTwo({ setUser}) {
         "left": "21px",
         "top": "478px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "13px",
-        "line-height": "16px",
-        "text-transform": "uppercase",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "13px",
+        "lineHeight": "16px",
+        "textTransform": "uppercase",
 
         "color": "#000000"
 
     }
     
     const PwdInputStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "319px",

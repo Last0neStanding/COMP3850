@@ -31,20 +31,20 @@ function CreateAccountFormOne() {
         "left": "52px",
         "top": "190px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "16px",
-        "line-height": "19px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "19px",
         "display": "flex",
-        "align-items": "center",
+        "alignItems": "center",
 
         "color": "#000000"
 
     }
 
     const MissRadioBtnStyle = { 
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "24px",
@@ -60,13 +60,13 @@ function CreateAccountFormOne() {
         "left": "53px",
         "top": "255px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "16px",
-        "line-height": "19px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "19px",
         "display": "flex",
-        "align-items": "center",
+        "alignItems": "center",
 
         "color": "#000000"
 
@@ -74,7 +74,7 @@ function CreateAccountFormOne() {
     }
     
     const MrRadioBtnStyle = { 
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "24px",
@@ -91,19 +91,19 @@ function CreateAccountFormOne() {
         "left": "52px",
         "top": "322px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "16px",
-        "line-height": "19px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "19px",
         "display": "flex",
-        "align-items": "center",
+        "alignItems": "center",
 
         "color": "#000000"
     }
 
     const MxRadioBtnStyle = { 
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "24px",
@@ -120,19 +120,19 @@ function CreateAccountFormOne() {
         "left": "53px",
         "top": "387px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "16px",
-        "line-height": "19px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "16px",
+        "lineHeight": "19px",
         "display": "flex",
-        "align-items": "center",
+        "alignItems": "center",
 
         "color": "#000000"
 
     }
     const NoSayRadioBtnStyle = { 
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "24px",
@@ -153,15 +153,15 @@ function CreateAccountFormOne() {
         "left": "33px",
         "top": "596px",
 
-        // "font-family": "Inter",
-        // "font-style": "normal",
-        // "font-weight": "400",
-        // "font-size": "11px",
-        // "line-height": "13px",
+        // "fontFamily": "Inter",
+        // "fontStyle": "normal",
+        // "fontWeight": "400",
+        // "fontSize": "11px",
+        // "lineHeight": "13px",
         // "display": "flex",
-        // "align-items": "center",
-        // "text-align": "center",
-        // "text-transform": "uppercase",
+        // "alignItems": "center",
+        // "textAlign": "center",
+        // "textTransform": "uppercase",
 
         "color": "#000000",
         "border":"1px solid #000000"

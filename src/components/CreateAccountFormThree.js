@@ -30,12 +30,12 @@ function CreateAccountFormThree() {
         "left": "8px",
         "top": "224px",
         
-        "font-family": "Inter",
-        "font-style": "italic",
-        "font-weight": "600",
-        "font-size": "24px",
-        "line-height": "29px",
-        "text-align": "center",
+        "fontFamily": "Inter",
+        "fontStyle": "italic",
+        "fontWeight": "600",
+        "fontSize": "24px",
+        "lineHeight": "29px",
+        "textAlign": "center",
         
         "color": "#000000"
     }
@@ -47,17 +47,17 @@ function CreateAccountFormThree() {
         "left": "18px",
         "top": "419px",
 
-        "font-family": "Inter",
-        "font-style": "italic",
-        "font-weight": "700",
-        "font-size": "12px",
-        "line-height": "15px",
+        "fontFamily": "Inter",
+        "fontStyle": "italic",
+        "fontWeight": "700",
+        "fontSize": "12px",
+        "lineHeight": "15px",
 
         "color": "#000000"
     }
     
     const QRBoxStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "132px",
@@ -77,18 +77,18 @@ function CreateAccountFormThree() {
         "left": "223px",
         "top": "502px",
         
-        "font-family": "Inter",
-        "font-style": "italic",
-        "font-weight": "800",
-        "font-size": "12px",
-        "line-height": "15px",
+        "fontFamily": "Inter",
+        "fontStyle": "italic",
+        "fontWeight": "800",
+        "fontSize": "12px",
+        "lineHeight": "15px",
         
         "color": "#000000"
         
     }
     
     const LoginBtnStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "114px",

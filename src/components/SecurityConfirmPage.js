@@ -37,15 +37,15 @@ function SecurityConfirmPage() {
         "fontSize": "15px",
         "lineHeight": "18px",
         "display": "flex",
-        "align-items": "center",
-        "text-transform": "uppercase",
+        "alignItems": "center",
+        "textTransform": "uppercase",
 
         "color": "#000000"
     }
     const QuestionInputStyle = {
         /* Security Question */
         /* Rectangle 97 */
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "311px",
@@ -70,15 +70,15 @@ function SecurityConfirmPage() {
         "fontSize": "15px",
         "lineHeight": "18px",
         "display": "flex",
-        "align-items": "center",
-        "text-transform": "uppercase",
+        "alignItems": "center",
+        "textTransform": "uppercase",
 
         "color": "#000000"
     }
     const AnswerInputSyle = {
         /* Rectangle 98 */
 
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "311px",
@@ -91,7 +91,7 @@ function SecurityConfirmPage() {
     }
 
     const confirmBtnStyle = {
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "161px",
@@ -107,14 +107,14 @@ function SecurityConfirmPage() {
         "fontWeight": 800,
         "fontSize": "24px",
         "lineHeight": "29px",
-        "align-items": "center",
+        "alignItems": "center",
         "textAlign": "center",
         "color": "#000000"
         
     }
 
     const cancelBtnSyle = {
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "161px",
@@ -130,7 +130,7 @@ function SecurityConfirmPage() {
         "fontWeight": 800,
         "fontSize": "24px",
         "lineHeight": "29px",
-        "align-items": "center",
+        "alignItems": "center",
         "textAlign": "center",
         "color": "#000000"
     }
@@ -151,7 +151,7 @@ function SecurityConfirmPage() {
 
         // display: flex,
         "margin": "0px",
-        "align-items": "center",
+        "alignItems": "center",
         "textAlign": "center",
 
         "color": "#000000"

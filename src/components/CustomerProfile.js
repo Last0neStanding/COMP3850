@@ -30,11 +30,11 @@ function CustomerProfile({user,setUser}) {
         "left": "19px",
         "top": "25px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "800",
-        "font-size": "24px",
-        "line-height": "29px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "800",
+        "fontSize": "24px",
+        "lineHeight": "29px",
         
         "color": "#000000"
     }
@@ -46,17 +46,17 @@ function CustomerProfile({user,setUser}) {
         "left": "19px",
         "top": "64px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "800",
-        "font-size": "24px",
-        "line-height": "29px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "800",
+        "fontSize": "24px",
+        "lineHeight": "29px",
         
         "color": "#000000"
     }
     
     const searchBtnStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "67px",
@@ -66,7 +66,7 @@ function CustomerProfile({user,setUser}) {
 
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const searchBtnTxtStyle={
@@ -76,20 +76,20 @@ function CustomerProfile({user,setUser}) {
         "left": "9px",
         "top": "-11px",
 
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
 
         "color": "#000000"
     }
     
     const historyBtnStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "65px",
@@ -99,7 +99,7 @@ function CustomerProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const historyBtnTxtStyle={
@@ -109,21 +109,21 @@ function CustomerProfile({user,setUser}) {
         "left": "9px",
         "top": "-11px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000"
         
     }
     
     const signOutBtnStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "65px",
@@ -133,7 +133,7 @@ function CustomerProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const signOutBtnTxtStyle={
@@ -143,20 +143,20 @@ function CustomerProfile({user,setUser}) {
         "left": "9px",
         "top": "-11px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000"
     }
     
     const VIPBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "316px",
@@ -166,7 +166,7 @@ function CustomerProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const VIPIconStyle={
@@ -186,14 +186,14 @@ function CustomerProfile({user,setUser}) {
         "left": "79px",
         "top": "-3px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         "display": "flex",
-        "align-items": "center",
-        "text-transform": "uppercase",
+        "alignItems": "center",
+        "textTransform": "uppercase",
         
         "color": "#000000"
     }
@@ -205,14 +205,14 @@ function CustomerProfile({user,setUser}) {
         "left": "196px",
         "top": "-4px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "700",
-        "font-size": "15px",
-        "line-height": "18px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "700",
+        "fontSize": "15px",
+        "lineHeight": "18px",
         "display": "flex",
-        "align-items": "center",
-        "text-transform": "uppercase",
+        "alignItems": "center",
+        "textTransform": "uppercase",
         
         "color": "#000000"
         
@@ -225,20 +225,20 @@ function CustomerProfile({user,setUser}) {
         "left": "258px",
         "top": "-3px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         "display": "flex",
-        "align-items": "center",
-        "text-transform": "uppercase",
+        "alignItems": "center",
+        "textTransform": "uppercase",
         
         "color": "#000000"
     }
     
     const AdsBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "313px",
@@ -248,8 +248,8 @@ function CustomerProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #F5F3E6",
-        "box-shadow": "0px 4px 4px rgba(0, 0, 0, 0.25)",
-        "border-radius": "20px"
+        "boxShadow": "0px 4px 4px rgba(0, 0, 0, 0.25)",
+        "borderRadius": "20px"
     }
     
     const adsStyle={
@@ -260,11 +260,11 @@ function CustomerProfile({user,setUser}) {
         "left": "17px",
         
         "// background": "url(Chanel-the-chanel-iconic-Spring-21-handbags-ad-The-Impression-002-1024x668.jpg)",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const InteractionBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "97px",
@@ -274,7 +274,7 @@ function CustomerProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const InteractionImgStyle={
@@ -294,21 +294,21 @@ function CustomerProfile({user,setUser}) {
         "left": "13px",
         "top": "88px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000",
-        "font-variation-settings": "'slnt' -8"
+        "fontVariationSettings": "'slnt' -8"
     }
     
     const IdentityBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "97px",
@@ -318,7 +318,7 @@ function CustomerProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const IdentityImgStyle={
@@ -336,21 +336,21 @@ function CustomerProfile({user,setUser}) {
         "left": "13px",
         "top": "88px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000",
-        "font-variation-settings": "'slnt' -8"
+        "fontVariationSettings": "'slnt' -8"
     }
     
     const ImpactBorderStyle={
-        "box-sizing": "border-box",
+        "boxSizing": "border-box",
 
         "position": "absolute",
         "width": "97px",
@@ -360,7 +360,7 @@ function CustomerProfile({user,setUser}) {
         
         "background": "#FFFFFF",
         "border": "1px solid #000000",
-        "border-radius": "20px"
+        "borderRadius": "20px"
     }
     
     const ImpactImgStyle={
@@ -378,17 +378,17 @@ function CustomerProfile({user,setUser}) {
         "left": "13px",
         "top": "88px",
         
-        "font-family": "'Inter'",
-        "font-style": "italic",
-        "font-weight": "500",
-        "font-size": "13px",
-        "line-height": "16px",
+        "fontFamily": "'Inter'",
+        "fontStyle": "italic",
+        "fontWeight": "500",
+        "fontSize": "13px",
+        "lineHeight": "16px",
         "display": "flex",
-        "align-items": "center",
-        "text-align": "center",
+        "alignItems": "center",
+        "textAlign": "center",
         
         "color": "#000000",
-        "font-variation-settings": "'slnt' -8"
+        "fontVariationSettings": "'slnt' -8"
     }
 
     // let userDisplayName = user.prefix+" "+user.firstName+" "+user.lastName;
