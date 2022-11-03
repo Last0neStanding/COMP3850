@@ -1,0 +1,3 @@
+DELETE http://localhost:8102/content/635e7731e2c2ca9200028255
+Content-Type: application/json
+Authorization: Basic 63481082e51d0de7116533d4

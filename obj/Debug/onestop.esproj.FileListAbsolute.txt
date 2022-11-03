@@ -1,0 +1,2 @@
+D:\OneStop\oneStop\oneStop\obj\Debug\onestop.esproj.SuggestedBindingRedirects.cache
+D:\OneStop\oneStop\oneStop\obj\Debug\onestop.esproj.CoreCompileInputs.cache

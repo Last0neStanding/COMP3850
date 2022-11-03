@@ -1,0 +1,4 @@
+GET http://localhost:8102/content/newtestuser110/10
+Content-Type: application/json
+Authorization: Basic 63481082e51d0de7116533d4
+

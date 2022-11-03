@@ -1,0 +1,8 @@
+PUT http://localhost:8102/content/63514d29e8fa0003f32f1e08
+Content-Type: application/json
+Authorization: Basic 63481082e51d0de7116533d4
+
+{
+    "email" : "newtestuser110",
+    "reactionType" : "likes"
+}

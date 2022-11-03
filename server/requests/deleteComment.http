@@ -1,0 +1,4 @@
+
+DELETE http://localhost:8102/comment/63514d29e8fa0003f32f1e08/63515242e8fa0003f32f1e2a
+Content-Type: application/json
+Authorization: Basic 63481082e51d0de7116533d4

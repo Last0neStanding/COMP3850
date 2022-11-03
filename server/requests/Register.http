@@ -1,0 +1,4 @@
+POST http://localhost:8102/auth/register
+Content-Type: application/json
+
+{"email": "newtestuser110", "email": "zhouxuan@hotmail.com.au", "password": "123123"}
